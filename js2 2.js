@@ -15,3 +15,5 @@ if (typeof age !== "number") {
 } else {
   console.log("technical work");
 }
+
+// коммент

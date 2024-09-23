@@ -9,3 +9,5 @@ if (salary >= 1000) {
 }
 
 console.log(grade);
+
+// коммент
