@@ -6,3 +6,4 @@ const competitorPizzas = [
   "hawai",
 ];
 const myPizzas = ["pumba", "timon", "bochka", "okno", "cai"];
+// k
