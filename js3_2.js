@@ -18,4 +18,4 @@ for (let i = minValue; i <= maxValue; i++) {
     console.log(`Число ${i} делится без остатка на 5`);
   }
 }
-//ghg
+//ghgh
