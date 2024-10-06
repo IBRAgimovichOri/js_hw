@@ -16,4 +16,4 @@ if (typeof age !== "number") {
   console.log("technical work");
 }
 
-// коммент
+// комментт
